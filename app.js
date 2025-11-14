@@ -14,5 +14,7 @@ console.log(myArr[0][1]);
 const myArr2 = [10, 20, (10 + 20) / 2, 10 + 20];
 console.log(myArr2);
 
+console.log(myArr2[2]);
+
 
 
